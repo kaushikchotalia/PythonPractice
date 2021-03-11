@@ -5,3 +5,7 @@ print(Counter(mylist))
 
 mylist1 = ['a','a','a',1,1,1]
 print(Counter(mylist1))
+print(Counter(mylist1))
+print(Counter(mylist1))
+print(Counter(mylist1))
+print(Counter(mylist1))
